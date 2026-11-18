@@ -1,0 +1,20 @@
+# Default: repo admins review everything not listed below
+*                                   @abedkhma @Mohammedib24
+
+/services/loader-service/           @abedkhma
+/services/evaluation-service/       @abedkhma
+/infra/                             @abedkhma
+/.github/                           @abedkhma
+
+/services/security-service/         @Mohammedib24
+/services/user-service/             @Mohammedib24
+/services/logger-service/           @Mohammedib24
+
+# TODO: replace @abedkhma with Hilal's username
+/services/metric-service/           @abedkhma
+/services/action-service/           @abedkhma
+
+# TODO: replace @abedkhma with Tasneem's username
+/services/processor-service/        @abedkhma
+/services/email-sender-service/     @abedkhma
+/services/sms-sender-service/       @abedkhma
